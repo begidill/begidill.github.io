@@ -1,0 +1,33 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ca965c;
+}
+
+#skill {
+  background-color: #ca965c;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+table,
+th,
+td {
+  margin-top: 40px;
+  border: 1px solid;
+  color: #ffffff;
+}
+table {
+  margin-left: 15%;
+  margin-bottom: 5%;
+  width: 70%;
+}
+
+.footer {
+  background-color: #876445;
+  text-align: center;
+  color: black;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
